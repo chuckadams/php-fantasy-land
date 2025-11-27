@@ -1,5 +1,5 @@
 {
-  "name": "functional-php/fantasy-land",
+  "name": "chuckadams/fantasy-land",
   "description": "Specification for interoperability of common algebraic structures in PHP",
   "type": "library",
   "license": "BSD-3-Clause",
@@ -7,6 +7,10 @@
     {
       "name": "Gabriel Habryn",
       "email": "widmogrod+github@gmail.com"
+    },
+    {
+      "name": "Chuck Adams",
+      "email": "chaz@chaz.works"
     }
   ],
   "require": {
